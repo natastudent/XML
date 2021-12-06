@@ -1,0 +1,10 @@
+<contact-info>
+    <lastname>Ivanova</lastname>
+    <firstname>Natalia</firstname>
+    <initials>Stepanovna</initials>
+    <age>40</age>
+    <phonenumber phonetype="L">1234567</phonenumber>
+    <phonenumber phonetype="M">8-912-3333333</phonenumber>
+    <pets>Labrador</pets>
+    <monthlyprofit>5000USD</monthlyprofit>
+</contact-info>
